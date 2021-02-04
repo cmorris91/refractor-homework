@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* removed classes and changed to header and nav */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -74,7 +74,7 @@ section {
     display: inline-block;
     margin-left: 20px;
 }
-
+/* classes and changed to corresponding html tag */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -113,7 +113,7 @@ section article {
     color: #ffffff;
 }
 
-/* changed to section article and condensed css */
+/* condensed css */
 section article img {
     max-height: 200px;
 }
@@ -122,14 +122,14 @@ section article h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
-.footer {
+/* removed class and changed to html tag */
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+footer h2 {
     font-size: 20px;
 }
