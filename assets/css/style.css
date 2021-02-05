@@ -74,7 +74,8 @@ section {
     display: inline-block;
     margin-left: 20px;
 }
-/* classes and changed to corresponding html tag */
+/* removed classes and changed to corresponding html tags. 
+condensed css that wasn't needed after removing classes*/
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -103,7 +104,8 @@ aside article img {
     margin: 10px auto;
     max-width: 150px;
 }
-/* changed to section article */
+/* removed classes changed to section and article condensed css 
+that was no longer needed after removing classes*/
 section article {
     margin-bottom: 20px;
     padding: 50px;
@@ -113,7 +115,6 @@ section article {
     color: #ffffff;
 }
 
-/* condensed css */
 section article img {
     max-height: 200px;
 }
